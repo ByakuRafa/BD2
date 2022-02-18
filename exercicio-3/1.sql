@@ -1,0 +1,1 @@
+SELECT count(code) FROM world.country;

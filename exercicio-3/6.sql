@@ -1,0 +1,1 @@
+SELECT min(SurfaceArea) from world.country

@@ -1,0 +1,1 @@
+select count(payment_id) from sakila.payment

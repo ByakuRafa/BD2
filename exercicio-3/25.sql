@@ -1,0 +1,2 @@
+select payment.staff_id, first_name, last_name, amount from  sakila.staff, sakila.payment
+where sakila.payment.payment_date between('2005-05-25 00:00:00' and '2005-08-23 23:59:59') and sakila.payment.staff_id = staff.staff_id

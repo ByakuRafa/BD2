@@ -1,0 +1,1 @@
+SELECT max(SurfaceArea) from world.country

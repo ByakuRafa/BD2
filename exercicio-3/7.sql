@@ -1,0 +1,1 @@
+SELECT avg(SurfaceArea) from world.country
